@@ -16,28 +16,28 @@ global.isBaileysFail = false
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['201151094460', '👑 ERIN-MD 👑', true],
+  ['212625457341', '👑 ahmed aligue 👑', true],
 ];
 
-global.suittag = ['201151094460'];
-global.prems = ['201151094460'];
+global.suittag = ['212625457341'];
+global.prems = ['212625457341'];
 
 // API
 global.BASE_API_DELIRIUS = "https://delirius-apiofc.vercel.app";
 
-global.packname = 'Sticker';
-global.author = 'The Mystic - Bot';
-global.wm = 'The Mystic - Bot';
-global.titulowm = 'The Mystic - Bot';
-global.titulowm2 = `The Mystic - Bot`
-global.igfg = 'The Mystic - Bot';
+global.packname = 'SENKU BOT';
+global.author = 'SENKU BOT';
+global.wm = 'SENKU BOT';
+global.titulowm = 'SENKU BOT';
+global.titulowm2 = `SENKU BOT`
+global.igfg = 'SENKU BOT';
 global.wait = '*⌛ _جاري التحميل▰▰▰▱▱▱▱▱_*';
 
-/*global.imagen1 = fs.createReadStream('./src/assets/images/menu/languages/es/menu.png');
-global.imagen2 = fs.createReadStream('./src/assets/images/menu/languages/pt/menu.png');
-global.imagen3 = fs.createReadStream('./src/assets/images/menu/languages/fr/menu.png');
-global.imagen4 = fs.createReadStream('./src/assets/images/menu/languages/en/menu.png');
-global.imagen5 = fs.createReadStream('./src/assets/images/menu/languages/ru/menu.png');*/
+/*global.imagen1 = fs.createReadStream('./menu.png');
+global.imagen2 = fs.createReadStream('./menu.png');
+global.imagen3 = fs.createReadStream('./menu.png');
+global.imagen4 = fs.createReadStream('./menu.png');
+global.imagen5 = fs.createReadStream('./menu.png');*/
 
 global.imagen1 = fs.readFileSync('./menu.png');
 global.imagen2 = fs.readFileSync('./menu.png');
@@ -56,9 +56,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nThe Mystic - Bot`;
-global.gt = 'The Mystic - Bot';
-global.mysticbot = 'The Mystic - Bot';
+global.wm2 = `SENKU BOT`;
+global.gt = 'SENKU BOT';
+global.mysticbot = 'SENKU BOT';
 global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
